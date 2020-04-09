@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "TestSwagger"
+    }
+  },
+  "defaultProject": "TestSwagger",
+  "cli": {
+    "analytics": "f5bc75a3-7b01-4604-bd62-35e2a6ad0a30"
+  }
 }
